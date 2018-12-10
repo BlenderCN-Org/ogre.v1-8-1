@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2Context.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2DefaultHardwareBufferManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2DepthBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2EngineDll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2FBOMultiRenderTarget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2FBORenderTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2FrameBufferObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2GpuProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2GpuProgramManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2HardwareBufferManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2HardwareIndexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2HardwareOcclusionQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2HardwarePixelBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2HardwareVertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2PixelFormat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2Plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2RenderSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2RenderTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2Support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\OgreGLES2TextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESExtSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESGpuProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESLinkProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESLinkProgramManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESPreprocessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESProgramCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESProgramFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESProgramManagerCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESProgramPipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\GLSLES\src\OgreGLSLESProgramPipelineManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\WIN32\OgreWin32EGLSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\WIN32\OgreWin32EGLRenderTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\WIN32\OgreWin32EGLWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\WIN32\OgreWin32EGLContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\OgreEGLContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\OgreEGLRenderTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\OgreEGLSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\RenderSystems\GLES2\src\EGL\OgreEGLWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2Context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2DefaultHardwareBufferManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2DepthBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2FBOMultiRenderTarget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2FBORenderTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2FrameBufferObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2GpuProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2GpuProgramManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2HardwareBufferManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2HardwareIndexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2HardwareOcclusionQuery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2HardwarePixelBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2HardwareVertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2PixelFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2Plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2Prerequisites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2RenderSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2RenderTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2Support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\OgreGLES2TextureManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESExtSupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESGpuProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESLinkProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESLinkProgramManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESPreprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESProgramCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESProgramFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESProgramManagerCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESProgramPipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\src\GLSLES\include\OgreGLSLESProgramPipelineManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\WIN32\OgreWin32EGLContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\WIN32\OgreWin32EGLSupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\WIN32\OgreWin32EGLRenderTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\WIN32\OgreWin32EGLWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\WIN32\OgreGLES2Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\OgreEGLContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\OgreEGLRenderTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\OgreEGLSupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\RenderSystems\GLES2\include\EGL\OgreEGLWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{64CFDE09-B769-3FBA-902F-89B87A85C5C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D4A0444D-9675-32C1-9894-9D6DA1C79C31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
