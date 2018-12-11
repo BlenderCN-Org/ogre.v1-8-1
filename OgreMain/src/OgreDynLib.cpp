@@ -47,6 +47,14 @@ THE SOFTWARE.
 #   include <dlfcn.h>
 #endif
 
+#if OGRE_PLATFORM == OGRE_PLATFORM_WIN32
+static std::string ExePath() {
+	char buffer[MAX_PATH];
+	GetModuleFileNameA(NULL, buffer, MAX_PATH);
+	std::string::size_type pos = std::string(buffer).find_last_of("\\/");
+	return std::string(buffer).substr(0, pos);
+}
+#endif
 
 namespace Ogre {
 
@@ -84,6 +92,13 @@ namespace Ogre {
 			name += ".dll";
 #endif
         mInst = (DYNLIB_HANDLE)DYNLIB_LOAD( name.c_str() );
+
+#if OGRE_PLATFORM == OGRE_PLATFORM_WIN32
+		if( !mInst ) {
+			String dllPath = ExePath() + "\\" + name;
+			mInst = (DYNLIB_HANDLE)DYNLIB_LOAD( dllPath.c_str() );
+		}
+#endif
 
         if( !mInst )
             OGRE_EXCEPT(
